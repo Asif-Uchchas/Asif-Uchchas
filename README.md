@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asif Uddin Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<img align="right" alt="coding-animation" width="400" src="![image](https://github.com/Asif-Uchchas/Asif-Uchchas/assets/90466954/7e50ad48-5595-43ca-bca8-809adcfbd003)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-uchchas&label=Profile%20views&color=0e75b6&style=flat" alt="asif-uchchas" /> </p>
 
 - 🔭 I’m currently working on [Car-Hub](https://github.com/Asif-Uchchas/Carhub)
