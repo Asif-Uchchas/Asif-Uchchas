@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Asif-Uchchas/Asif-Uchchas/blob/main/Github-Banner)
 <h1 align="center">Hi 👋, I'm Asif Uddin Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding-animation" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif">
