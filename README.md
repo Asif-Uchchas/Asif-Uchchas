@@ -6,11 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-uchchas&label=Profile%20views&color=0e75b6&style=flat" alt="asif-uchchas" /> </p>
 
-- 🔭 I’m currently working on [TourTrail](https://github.com/Asif-Uchchas/TourTrail)
+- 🔭 I’m currently working on [BankBrite](https://github.com/Asif-Uchchas/BankBrite)
 
-- 🌱 I’m currently learning **Nextjs, React, Svelte, Tailwind**
+- 🌱 I’m currently learning **Angular, .NET**
 
-- 👯 I’m looking to collaborate on [goTravelot](https://github.com/Asif-Uchchas/goTravelot)
+- 🌱 I’m proficient in **Nextjs, React, Svelte, Tailwind**
+
+- 👯 I’m looking to collaborate on [TourTrail](https://github.com/Asif-Uchchas/TourTrail)
 
 - 👨‍💻 All of my projects are available at [Asif-Uchchas](https://asif-uchchas-portfolio.vercel.app)
 
