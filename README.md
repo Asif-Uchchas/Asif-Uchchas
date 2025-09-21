@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=asif-uchchas&label=Profile%20views&color=0e75b6&style=flat" alt="asif-uchchas" />
 </p>
 
-- 🔭 I’m currently working at **Opus Technology Ltd** on large-scale projects for Bangladesh Police and Education Management Systems  
+- 🔭 I’m currently working at **Opus Technology Ltd** on large-scale projects for the Bangladesh Police and Education Management Systems  
 - 🌱 Exploring advanced **Angular, .NET Core, and scalable system design**  
 - ⚡ Skilled in **Next.js, React, Tailwind, MongoDB** (Certified in Next.js)  
 - 👯 Open to collaboration on **fullstack web projects**  
